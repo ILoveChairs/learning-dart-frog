@@ -10,5 +10,5 @@ void main() {
    */
 
   // Prints Hello world
-  print('Hello, World!');
+  print('no');
 }
